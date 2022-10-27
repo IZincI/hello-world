@@ -1,1 +1,1 @@
-Ceci est un proet test
+Ceci est un projet test
